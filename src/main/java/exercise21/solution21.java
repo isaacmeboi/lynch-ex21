@@ -1,3 +1,7 @@
+/*
+ *  UCF COP3330 Fall 2021 Assignment 21 Solution
+ *  Copyright 2021 Isaac Lynch
+ */
 package exercise21;
 
 import java.util.*;
